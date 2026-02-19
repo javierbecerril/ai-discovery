@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD Builder"
+  short_description: "Synthesize all discovery artifacts into a complete PRD"
+  default_prompt: "Use this skill to produce a detailed Product Requirements Document from all discovery artifacts: insights, journey map, and stories, with a full project overview and requirements organized by theme."

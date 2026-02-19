@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dedup Clusterer"
+  short_description: "Deduplicate and cluster insights into themes"
+  default_prompt: "Use this skill to find duplicate insights, merge them, and group everything into named themes with frequency and severity signals."

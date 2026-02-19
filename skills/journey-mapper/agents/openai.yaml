@@ -1,0 +1,4 @@
+interface:
+  display_name: "Journey Mapper"
+  short_description: "Map insight themes to user workflow steps"
+  default_prompt: "Use this skill to produce a journey map connecting insight themes to specific steps in the user's platform workflow, showing current friction and desired state at each step."

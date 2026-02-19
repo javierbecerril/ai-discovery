@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Handoff Packager"
+  short_description: "Produce a meeting-ready engineering handoff package"
+  default_prompt: "Use this skill to produce a concise, meeting-ready package for the engineering team: executive summary, top stories, design references, open questions, and a suggested meeting agenda."

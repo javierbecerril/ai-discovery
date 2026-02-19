@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning Engineer"
+  short_description: "Capture discovery process lessons and prevent recurrence"
+  default_prompt: "Use this skill to document lessons from incidents, reversals, or unexpected findings during the discovery process."

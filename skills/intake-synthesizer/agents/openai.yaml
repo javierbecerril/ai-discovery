@@ -1,0 +1,4 @@
+interface:
+  display_name: "Intake Synthesizer"
+  short_description: "Extract and register insights from raw stakeholder input"
+  default_prompt: "Use this skill to extract pain points, desired behaviors, and evidence from transcripts, analyst notes, or mockups and add them to the Insight Registry."

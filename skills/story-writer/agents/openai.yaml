@@ -1,0 +1,4 @@
+interface:
+  display_name: "Story Writer"
+  short_description: "Write ticket-ready user stories from insights and journey map"
+  default_prompt: "Use this skill to produce structured user stories from insight themes and the journey map, each scoped to one deliverable chunk with evidence-backed context and testable acceptance criteria."
