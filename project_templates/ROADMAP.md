@@ -1,6 +1,7 @@
 # Roadmap: [Project Name]
 
 Produced by `roadmap-prioritizer`. Sequenced delivery plan by user impact.
+Covers the **Development** phase of the 4D framework (see `project_templates/PHASES.md`).
 No timelines — scope and sequence only.
 
 ---
@@ -13,7 +14,9 @@ No timelines — scope and sequence only.
 
 ---
 
-## Phases
+## Development Phases
+
+Stories sequenced by user impact, severity, and dependencies.
 
 <!-- roadmap-prioritizer fills in phases -->
 
@@ -25,6 +28,21 @@ Goal: [what this phase delivers for the user]
 |----------|-------|----------|------------|---------------------|
 | STORY-XX | ...   | High     | none       | no                  |
 -->
+
+---
+
+## Delivery / Rollout Plan
+
+> Delivery phase: getting the product into the hands of end users.
+> Fill this in when a rollout plan is defined. Reference `project_templates/PHASES.md`
+> for expected outcomes.
+
+| Milestone | Description | Target Date | % Rollout |
+|-----------|-------------|-------------|-----------|
+| Internal release | | | |
+| Limited rollout | | | |
+| Full rollout | | | 100% |
+| Follow-up review | | | |
 
 ---
 

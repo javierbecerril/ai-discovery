@@ -7,6 +7,19 @@ Operating model:
 - The AI acts as your expert research partner.
 - Skills act as specialized processors for each phase of the discovery workflow.
 
+## Lifecycle Position
+
+This workbench covers the **Discovery** and **Definition** phases of the 4D product
+development framework. Development and Delivery happen downstream.
+
+```
+Discovery → Definition → Development → Delivery
+[this workbench]          [engineering]  [rollout]
+```
+
+See `project_templates/PHASES.md` for full phase definitions, expected outcomes,
+and milestone planning guidance.
+
 ## Core Artifacts
 
 - `AGENTS.md`: orchestration entrypoint and skill routing.

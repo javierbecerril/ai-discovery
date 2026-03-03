@@ -15,10 +15,11 @@ Produce a package engineering can understand and act on without needing the full
 - `PRD.md`
 - `ROADMAP.md`
 - Design references inventory (mockups, screenshots, links)
+- `project_templates/PHASES.md`
 
 ## Workflow
 
-1. Write a one-page executive summary: problem, users affected, what was discovered, what is being asked of engineering.
+1. Write a one-page executive summary: problem, users affected, what was discovered, what is being asked of engineering. Note that this handoff marks the boundary between the Definition and Development phases (see `project_templates/PHASES.md`).
 2. Select the top 3–5 highest-priority stories for the meeting walkthrough.
 3. For each top story: include title, user story statement, key evidence quote, acceptance criteria, and design reference.
 4. Compile design references with descriptions so engineering can navigate them.

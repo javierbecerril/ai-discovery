@@ -11,13 +11,49 @@ Stories are referenced by ID — see STORIES.md for full detail.
 
 ---
 
-## 2. Problem Statement
+## 2. Reasons for the Project (Why)
 
-[Clear description of the current situation and why it is a problem worth solving now.]
+[What is the opportunity or trigger for this project? What pain points or client needs does it address?]
+
+- A user is having difficulty with [X]
+- A client requested [Y]
+- [Additional context]
 
 ---
 
-## 3. User Personas
+## 3. Objectives
+
+[What results need to be achieved? Link to OKR if applicable. For small changes or when OKR is still being defined, note that explicitly.]
+
+- [ ] [Objective 1 — e.g., Create a new feature for X]
+- [ ] [Objective 2 — e.g., Reduce friction in Y]
+
+> OKR reference: [Link or label, or "N/A — small UI change" / "TBD — under definition"]
+
+---
+
+## 4. Metrics
+
+[What is the definition of success? Metrics should be measurable, not vague.]
+
+- Time saved on platform: [target]
+- Conversion rate: [target]
+- Number of requests / bugs related to X: [target reduction]
+- [Other measurable signal]
+
+---
+
+## 5. Outcomes
+
+[Material outputs of this project — what will physically exist when this is done?]
+
+- A new UI for [X]
+- A report for [Y]
+- [Other deliverable]
+
+---
+
+## 6. User Personas
 
 [Description of each user type who participated in discovery or who will benefit from the changes.]
 
@@ -25,7 +61,7 @@ Stories are referenced by ID — see STORIES.md for full detail.
 
 ---
 
-## 4. Discovery Summary
+## 7. Discovery Summary
 
 - Input types used:
 - Number of sessions / stakeholders:
@@ -34,7 +70,7 @@ Stories are referenced by ID — see STORIES.md for full detail.
 
 ---
 
-## 5. Pain Points and Evidence
+## 8. Pain Points and Evidence
 
 [Organized by theme. Each pain point links to the Insight Registry.]
 
@@ -49,7 +85,7 @@ Stories are referenced by ID — see STORIES.md for full detail.
 
 ---
 
-## 6. User Journey Map Summary
+## 9. User Journey Map Summary
 
 [Key findings from JOURNEY_MAP.md. Highest-friction steps highlighted.]
 
@@ -59,7 +95,7 @@ Stories are referenced by ID — see STORIES.md for full detail.
 
 ---
 
-## 7. Requirements
+## 10. Requirements
 
 [Organized by theme. Each requirement links to its story.]
 
@@ -69,24 +105,56 @@ Stories are referenced by ID — see STORIES.md for full detail.
 
 ---
 
-## 8. Design References
+## 11. Design Details
 
 | Reference ID | Description | File/Link | Related Story |
 |-------------|-------------|-----------|---------------|
 | | | | |
 
----
-
-## 9. Success Metrics and Acceptance
-
-[How will we know this is done and working?]
-
-- Metric: [measurable signal]
-- Acceptance: [testable condition]
+- Design documents:
+- UI wireframes / annotations:
+- Architecture maps:
+- Database design docs:
 
 ---
 
-## 10. Scope Boundaries
+## 12. Technical Details
+
+[Provide links or brief descriptions. Leave blank with "TBD" if not yet defined.]
+
+- Tech stack:
+- Tech documentation:
+- Database architecture docs:
+- Repo structure:
+
+---
+
+## 13. Timeline
+
+> Phase definitions and expected outcomes: see `project_templates/PHASES.md`.
+
+- Start Date:
+- Target Date:
+
+| Phase | Status | Start Date | Target Date | Key Outcome |
+|-------|--------|------------|-------------|-------------|
+| Discovery | | | | Insight registry + journey map |
+| Definition | | | | PRD + stories + roadmap |
+| Development | | | | Deliverables (UI, code, architecture) |
+| Delivery | | | | Rollout + metrics baseline |
+
+**Rollout plan** (fill in for Delivery phase; mark N/A if not applicable):
+
+| Milestone | Description | Target Date | % Rollout |
+|-----------|-------------|-------------|-----------|
+| Internal release | | | |
+| Limited rollout | | | |
+| Full rollout | | | 100% |
+| Follow-up review | | | |
+
+---
+
+## 14. Scope Boundaries
 
 ### In Scope
 -
@@ -96,7 +164,7 @@ Stories are referenced by ID — see STORIES.md for full detail.
 
 ---
 
-## 11. Open Questions
+## 15. Open Questions
 
 | Question | Needed From | Blocking |
 |----------|-------------|---------|
@@ -104,6 +172,6 @@ Stories are referenced by ID — see STORIES.md for full detail.
 
 ---
 
-## 12. Roadmap Reference
+## 16. Roadmap Reference
 
 See ROADMAP.md for phased delivery sequencing.

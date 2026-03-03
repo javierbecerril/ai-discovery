@@ -13,15 +13,17 @@ Produce a sequenced, justified roadmap for engineering delivery.
 - `PROJECT_CONTEXT.md`
 - Full story set with priority and dependency flags
 - `INSIGHT_REGISTRY.md` theme clusters (for severity and frequency signals)
+- `project_templates/PHASES.md`
 
 ## Workflow
 
 1. Review all stories with their priority, severity, and frequency signals.
 2. Identify dependencies between stories (must-complete-before relationships).
-3. Group stories into delivery phases (e.g., Phase 1: critical fixes, Phase 2: workflow improvements, Phase 3: polish).
+3. Group stories into delivery phases within the Development phase (e.g., Phase 1: critical fixes, Phase 2: workflow improvements, Phase 3: polish). Reference `project_templates/PHASES.md` for what Development is expected to produce.
 4. Within each phase, sequence by impact: high severity + high frequency first.
 5. Flag stories that need design or scope clarification before they can be scheduled.
-6. Produce ROADMAP.md.
+6. Add a Delivery / Rollout section with the standard rollout milestone table from `project_templates/PHASES.md`. Fill in what is known; leave the rest for the product team to complete.
+7. Produce ROADMAP.md.
 
 ## Roadmap Entry Format
 
